@@ -11,14 +11,14 @@ header:
 excerpt: "Old Pictures will be displayed on this page"
 
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/173/listing/257images_-_2019-07-10T164054.892.jpeg
+    image_path: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/173/listing/257images_-_2019-07-10T164054.892.jpeg
     alt: "placeholder image 1"
-  - url: https://unsplash.com/assets/images/unsplash-gallery-image-2.jpg
-    image_path: https://unsplash.com/assets/images/unsplash-gallery-image-2.jpg
+  - url: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/173/listing/2images_-_2019-07-10T164102.315.jpeg
+    image_path: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/173/listing/2images_-_2019-07-10T164102.315.jpeg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/173/listing/258images_-_2019-07-10T164046.640.jpeg
+    image_path: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/173/listing/258images_-_2019-07-10T164046.640.jpeg
     alt: "placeholder image 3"
 ---
 

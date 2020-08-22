@@ -2,6 +2,7 @@
 title: "Brown Leather Chair"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 type: "livingroom"
+layout: single
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
@@ -13,11 +14,11 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/collections/lrc/off_1.jpg
+    image_path: assets/images/collections/lrc/off_1.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/collections/lrc/off_2.jpg
+    image_path: assets/images/collections/lrc/off_2.jpg
     alt: "placeholder image 2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg

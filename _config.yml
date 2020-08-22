@@ -20,7 +20,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   All your household and daily needs ranging from furniture, electronics, wares, etc here at
   your finger tips
-baseurl: "/furniture-hub" # the subpath of your site, e.g. /blog will be name of repository on github if i want to host it inside ofspain, else, if i want to host it on separate github account, i leave it blank
+baseurl: "" # the subpath of your site, e.g. /blog will be name of repository on github if i want to host it inside ofspain, else, if i want to host it on separate github account, i leave it blank
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -31,8 +31,8 @@ minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "d
 markdown: kramdown
 #theme: minima
 theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.20.1"
-repository: ofspain/ofspain.github.io
+#remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+repository: furniture-hub/furniture-hub.github.io
 plugins:
   - jekyll-feed
   - jekyll-include-cache
