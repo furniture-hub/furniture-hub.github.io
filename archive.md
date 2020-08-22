@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/archive-splash.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Old Pictures will be displayed on this page"
+excerpt: "Explore our past works"
 
 gallery:
   - url: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/173/listing/257images_-_2019-07-10T164054.892.jpeg
