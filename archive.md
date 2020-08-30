@@ -83,15 +83,6 @@ gallery:
   - url: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/456/listing/459images_(61).jpeg
     image_path: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/456/listing/459images_(61).jpeg
     alt: "archive furniture"
-  - url: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/326/listing/401IMG_20190721_095210_630.jpg
-    image_path: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/326/listing/401IMG_20190721_095210_630.jpg
-    alt: "archive furniture"
-  - url: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/326/listing/40420190719_092633.jpg
-    image_path: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/326/listing/40420190719_092633.jpg
-    alt: "archive furniture"
-  - url: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/326/listing/403IMG_20190721_095210_629.jpg
-    image_path: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/326/listing/403IMG_20190721_095210_629.jpg
-    alt: "archive furniture"
   - url: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/265/listing/267IMG_20190402_121637.jpg
     image_path: https://s3.us-east-2.amazonaws.com/furniture-upload-bucket/furniture/265/listing/267IMG_20190402_121637.jpg
     alt: "archive furniture"
