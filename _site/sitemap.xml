@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/dinning/glassy-topped-dinning-set/</loc>
-<lastmod>2020-08-22T15:39:29+01:00</lastmod>
+<lastmod>2020-08-30T03:38:53+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/livingroom/blue-leather-chair/</loc>
-<lastmod>2020-08-22T15:39:29+01:00</lastmod>
+<lastmod>2020-08-30T03:38:53+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/livingroom/brown-leather-chair/</loc>
-<lastmod>2020-08-22T15:39:29+01:00</lastmod>
+<lastmod>2020-08-30T03:38:53+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/welcome-to-jekyll</loc>
@@ -39,5 +39,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/living-room/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/office/</loc>
 </url>
 </urlset>
