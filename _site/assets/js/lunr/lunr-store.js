@@ -1,8 +1,56 @@
 var store = [{
+        "title": "Ash Platform Bed",
+        "excerpt":"                                                ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/bedroom/ash-platform-bed",
+        "teaser": null
+      },{
+        "title": "Ash Queens Bed",
+        "excerpt":"                                                ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/bedroom/ash-queen-bed",
+        "teaser": null
+      },{
+        "title": "FURNITURE HUB",
+        "excerpt":"Let do this together NIGERIA. Together we are stronger Image courtesy of [FurnitureHub Nig] Walled TV Stand A modern sitting shelf flat on the wall Read More Image courtesy of [FurnitureHub Nig] Sky Blue Icy Sofa Flower pattern pillow sofa Read More Image courtesy of [FurnitureHub Nig] Brown L sofa...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/",
+        "teaser": null
+      },{
+        "title": "Leather Coated Brown Bed",
+        "excerpt":"                                                ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/bedroom/brown-platform-bed",
+        "teaser": null
+      },{
+        "title": "Executive Brown Bed",
+        "excerpt":"                                                ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/bedroom/executive-brown-bed",
+        "teaser": null
+      },{
         "title": "Leather Coated Brown Bed",
         "excerpt":"                                                                                                                            ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/bedroom/leather-coated-brown-bed",
+        "teaser": null
+      },{
+        "title": "Quality Kings Bed",
+        "excerpt":"                                                ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/bedroom/quality-king-bed",
+        "teaser": null
+      },{
+        "title": "Reinforced Cream Bed",
+        "excerpt":"                                                ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/bedroom/reinforced-cream-bed",
+        "teaser": null
+      },{
+        "title": "Woody Panel Bed",
+        "excerpt":"                                                ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/bedroom/woody-panel-bed",
         "teaser": null
       },{
         "title": "Glaasy Table Dinning Set",
