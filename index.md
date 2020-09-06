@@ -15,8 +15,48 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Get everything you need at your fingertips with few clicks at your convience with the least possible price"
 intro: 
-  - excerpt: ' Let do this together *NIGERIA*. Together we are `stronger` '
+  - excerpt: 'This your one stop place for all your *FURNITURE NEED*. Together we are `stronger` '
 feature_row:
+  - image_path: /assets/images/collections/lrc/600_400/op_6_4.jpg
+    alt: "Round Chair"
+    title: "Palatial Rounded Sofa"
+    url: "/livingroom/palatial-rounded-sofa"
+    btn_label: "Read More"
+    image_caption: "Image courtesy of [**FurnitureHub Nig**]"
+    btn_class: "btn--primary"
+    excerpt: "A modern princely sofa"
+  - image_path: /assets/images/collections/lrc/600_400/p1_6_4.jpg
+    alt: "cream sofa"
+    title: "Executive Cream Sofa"
+    url: "/livingroom/executive-cream-sofa"
+    btn_label: "Read More"
+    image_caption: "Image courtesy of [**FurnitureHub Nig**]"
+    btn_class: "btn--primary"
+    excerpt: "A modern sitting room sofa"
+  - image_path: /assets/images/collections/lrc/600_400/n_6_4.jpg
+    alt: "pink chair"
+    title: "Pink complete queen sofa"
+    url: "/livingroom/pink-complete-queen-sofa"
+    btn_label: "Read More"
+    image_caption: "Image courtesy of [**FurnitureHub Nig**]"
+    btn_class: "btn--primary"
+    excerpt: "Complete sofa with single, double and 3 seater"
+  - image_path: /assets/images/collections/lrc/600_400/w_6_4.jpg
+    alt: "beown leather seat"
+    title: "Brown sleek leather seat"
+    url: "/livingroom/brown-sleek-leather-seat"
+    btn_label: "Read More"
+    image_caption: "Image courtesy of [**Chisco Furniture Ikeja**]"
+    btn_class: "btn--primary"
+    excerpt: "Complete sofa with single, double and 3 seater"
+  - image_path: /assets/images/collections/lrc/600_400/d_6_4.jpg
+    alt: "black leather seat"
+    title: "Black sleek leather seat"
+    url: "/livingroom/black-sleek-leather-seat"
+    btn_label: "Read More"
+    image_caption: "Image courtesy of [**Chisco Furniture Ikeja**]"
+    btn_class: "btn--primary"
+    excerpt: "Complete sofa with single, double and 3 seater"
   - image_path: /assets/images/collections/lrc/600_400/tv_self.jpg
     alt: "walled tv stand"
     title: "Walled TV Stand"
