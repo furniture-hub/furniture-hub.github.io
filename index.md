@@ -15,7 +15,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Get everything you need at your fingertips with few clicks at your convience with the least possible price"
 intro: 
-  - excerpt: 'This your one stop place for all your *FURNITURE NEED*. Together we are `stronger` '
+  - excerpt: 'This your one stop place for all your **FURNITURE NEED**. Together we are `better` '
 feature_row:
   - image_path: /assets/images/collections/lrc/600_400/op_6_4.jpg
     alt: "Round Chair"
